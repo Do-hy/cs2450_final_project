@@ -18,7 +18,7 @@ The goal is to enforce clear separation of responsibilities and ensure system sc
 ---
 
 # 2. Class Structure
-
+'''
 User (abstract)
 ├── Customer
 ├── BrandOwner
@@ -36,7 +36,7 @@ PlatformManager (Singleton)
 ├── brands: Dict[int, Brand]
 ├── products: Dict[int, Product]
 └── orders: Dict[int, Order]
-
+'''
 
 ### User Hierarchy
 - Customer places orders  
