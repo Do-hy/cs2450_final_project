@@ -13,25 +13,25 @@ The project is built in Python using object-oriented design principles and inclu
 ---
 
 ## Project Structure
+```
 fashion_platform/
 │
 ├── main.py
 │
 ├── src/
-│   ├── users.py
-│   ├── brands.py
-│   ├── products.py
-│   ├── orders.py
-│   └── platform.py
+│ ├── users.py
+│ ├── brands.py
+│ ├── products.py
+│ ├── orders.py
+│ └── platform.py
 │
 ├── tests/
-│   ├── test_products.py
-│   ├── test_orders.py
-│   └── test_platform.py
+│ ├── test_products.py
+│ ├── test_orders.py
+│ └── test_platform.py
 │
 └── docs/ (optional)
-
-
+```
 ---
 
 ## ⚙️ How to Run the Program
